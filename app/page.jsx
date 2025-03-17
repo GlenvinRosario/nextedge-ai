@@ -4,11 +4,8 @@ import Image from "next/image";
 import { features } from "@/data/features";
 import {
   Card,
-  CardHeader,
-  CardTitle,
-  CardDescription,
   CardContent,
-  CardFooter,
+
 } from "@/components/ui/card";
 import ratings from "../data/rating";
 import { howItWorks } from "@/data/howItWorks";
